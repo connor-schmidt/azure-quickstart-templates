@@ -1,4 +1,4 @@
-# Trend Micro - Cloud Security Solution Template 001
+# Cloud Security: Trend Micro > Chef > Splunk
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Ftrend-chef-splunk-security%2Fazuredeploy.json" target="_blank">
 <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
@@ -6,12 +6,12 @@
 <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-## Solution Template Overview
-***Solution Templates*** provide customers with a highly automated process to launch enterprise ready first and 3rd party ISV solution stacks on Azure in a pre-production environment. The **Solution Template** effort is complimentary to the [Azure Marketplace test drive program](https://azure.microsoft.com/en-us/marketplace/test-drives/). These fully baked stacks enable customers to quickly stand up a PoC or Piloting environments and also integrate it with their systems and customization.
+## Azure Partner Quickstart Template Overview
+***Azure Partner Quickstart Templates*** provide customers with a highly automated process to launch enterprise ready first and 3rd party ISV solution stacks on Azure in a pre-production environment. The **Azure Partner Quickstart Template** effort is complimentary to the [Azure Marketplace test drive program](https://azure.microsoft.com/en-us/marketplace/test-drives/). These fully baked stacks enable customers to quickly stand up a PoC or Piloting environments and also integrate it with their systems and customization.
 
 Customers benefit greatly from solution templates because of the ease with which they can stand up enterprise-grade, fully integrated stacks on Azure. The extensive automation and testing of these solutions will allow them to spin up pre-production environments with minimal manual steps and customization.  Most importantly, customers now have the confidence to transition the solution into a fully production-ready environment with confidence.
 
-**Cloud Security Solution Template 001** launches a security-at-scale solution stack that provides an automated provisioning, configuration and integration of [Trend Micro's Deep Security](https://azure.microsoft.com/en-us/marketplace/partners/trendmicro/deep-security-manager-st-byoldeep-security-manager-byol/) product on Azure. Combined with [Splunk Enterprise](https://azure.microsoft.com/en-us/marketplace/partners/splunk/splunk-enterprisebyol/) & [Chef Server](https://azure.microsoft.com/en-us/marketplace/partners/chef-software/chef-server/) products makes this solution ready for pre-production environments. These are intended as pilot solutions and not production ready.
+The **Cloud Security: Trend Micro > Chef > Splunk** Azure Partner Quickstart Template launches a security-at-scale solution stack that provides an automated provisioning, configuration and integration of [Trend Micro's Deep Security](https://azure.microsoft.com/en-us/marketplace/partners/trendmicro/deep-security-manager-st-byoldeep-security-manager-byol/) product on Azure. Combined with [Splunk Enterprise](https://azure.microsoft.com/en-us/marketplace/partners/splunk/splunk-enterprisebyol/) & [Chef Server](https://azure.microsoft.com/en-us/marketplace/partners/chef-software/chef-server/) products makes this solution ready for pre-production environments. These are intended as pilot solutions and not production ready.
 Please [contact us](azuremarketplace@sysgain.com) if you need further info or support on this solution.
 
 ##Licenses & Costs
